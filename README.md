@@ -1,5 +1,5 @@
 # tds-test-ja
-日本語のTDS (Tobacco Dependence Screener) の質問票
+日本語のTDS (Tobacco Dependence Screener) の質問票の文言と点数計算
 
 ## install
 
